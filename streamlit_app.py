@@ -111,3 +111,4 @@ if st.button("오늘의 운세 확인하기"):
             st.error(f"처리 중 오류가 발생했습니다: {e}")
     else:
         st.warning("생년월일을 입력해주세요.")
+        
